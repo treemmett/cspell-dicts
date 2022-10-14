@@ -14,6 +14,26 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.0](https://github.com/treemmett/cspell-dicts/compare/@cspell/dict-de-de-v3.0.0...@cspell/dict-de-de@4.0.0) (2022-10-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* Support Umlaut alternatives (#1500)
+
+### Features
+
+* Support Umlaut alternatives ([#1500](https://github.com/treemmett/cspell-dicts/issues/1500)) ([e0e27b7](https://github.com/treemmett/cspell-dicts/commit/e0e27b77b0050282e1b513c2909576c32efddfa6))
+
+
+### Miscellaneous
+
+* adjust the trie format to improve git storage ([#1371](https://github.com/treemmett/cspell-dicts/issues/1371)) ([1b91dc7](https://github.com/treemmett/cspell-dicts/commit/1b91dc7ff869ca1d7ece87910da9adce12504085))
+* do not store `.trie.gz` files. ([#1361](https://github.com/treemmett/cspell-dicts/issues/1361)) ([2de0b0d](https://github.com/treemmett/cspell-dicts/commit/2de0b0df4b8addfd69e2e6899c05f8b502799b7c))
+* force overwrite in prepare ([#1364](https://github.com/treemmett/cspell-dicts/issues/1364)) ([5eec47e](https://github.com/treemmett/cspell-dicts/commit/5eec47e223f1dd6370fcbc3c1b6b0361c92bbddf))
+* release main ([#1358](https://github.com/treemmett/cspell-dicts/issues/1358)) ([7f0666a](https://github.com/treemmett/cspell-dicts/commit/7f0666a869ffeef44c755f30ec61b5a4043772d7))
+* release main ([#1495](https://github.com/treemmett/cspell-dicts/issues/1495)) ([61289d1](https://github.com/treemmett/cspell-dicts/commit/61289d1621bd7c5d2cccc763acf3ca49b8ca28a1))
+
 ## [3.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-de-de@2.1.1...@cspell/dict-de-de@3.0.0) (2022-10-01)
 
 

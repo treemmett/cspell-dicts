@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.0.0](https://github.com/treemmett/cspell-dicts/compare/@cspell/dict-typescript-v3.0.0...@cspell/dict-typescript@4.0.0) (2022-10-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* Drop Support for CSpell 5. (#1512)
+
+### Features
+
+* Drop Support for CSpell 5. ([#1512](https://github.com/treemmett/cspell-dicts/issues/1512)) ([687932e](https://github.com/treemmett/cspell-dicts/commit/687932e187e4bce87d7904e3a2e53dd6de6ac372))
+
+
+### Updates and Bug Fixes
+
+* Remove typos from software terms ([#1462](https://github.com/treemmett/cspell-dicts/issues/1462)) ([bff1352](https://github.com/treemmett/cspell-dicts/commit/bff135215f3a71dc3e5151f97db407d597e8df65))
+
+
+### Miscellaneous
+
+* release main ([#1456](https://github.com/treemmett/cspell-dicts/issues/1456)) ([56c93a0](https://github.com/treemmett/cspell-dicts/commit/56c93a01e70075f426f7a59bc7f9e6681244deee))
+* release main ([#1513](https://github.com/treemmett/cspell-dicts/issues/1513)) ([1ca7c3e](https://github.com/treemmett/cspell-dicts/commit/1ca7c3ef9e48ab76719fd8e7b578eaee452ddf68))
+
 ## [3.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-typescript@2.0.2...@cspell/dict-typescript@3.0.0) (2022-10-10)
 
 

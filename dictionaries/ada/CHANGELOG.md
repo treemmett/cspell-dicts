@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.0.0](https://github.com/treemmett/cspell-dicts/compare/@cspell/dict-ada-v3.0.0...@cspell/dict-ada@4.0.0) (2022-10-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* Drop Support for CSpell 5. (#1512)
+
+### Features
+
+* Drop Support for CSpell 5. ([#1512](https://github.com/treemmett/cspell-dicts/issues/1512)) ([687932e](https://github.com/treemmett/cspell-dicts/commit/687932e187e4bce87d7904e3a2e53dd6de6ac372))
+
+
+### Updates and Bug Fixes
+
+* support English contractions in Ada files. ([#1277](https://github.com/treemmett/cspell-dicts/issues/1277)) ([ec0895e](https://github.com/treemmett/cspell-dicts/commit/ec0895e2f4f0728f27df111036513c80000245b1)), closes [#1276](https://github.com/treemmett/cspell-dicts/issues/1276)
+
+
+### Miscellaneous
+
+* release main ([#1513](https://github.com/treemmett/cspell-dicts/issues/1513)) ([1ca7c3e](https://github.com/treemmett/cspell-dicts/commit/1ca7c3ef9e48ab76719fd8e7b578eaee452ddf68))
+
 ## [3.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-ada@2.0.1...@cspell/dict-ada@3.0.0) (2022-10-10)
 
 
