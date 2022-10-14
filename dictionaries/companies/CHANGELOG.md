@@ -3,6 +3,41 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.0.0](https://github.com/treemmett/cspell-dicts/compare/@cspell/dict-companies-v3.0.0...@cspell/dict-companies@4.0.0) (2022-10-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* Drop Support for CSpell 5. (#1512)
+
+### Features
+
+* Drop Support for CSpell 5. ([#1512](https://github.com/treemmett/cspell-dicts/issues/1512)) ([687932e](https://github.com/treemmett/cspell-dicts/commit/687932e187e4bce87d7904e3a2e53dd6de6ac372))
+
+
+### Updates and Bug Fixes
+
+* `Mockito` and `Yext` to Companies ([#1326](https://github.com/treemmett/cspell-dicts/issues/1326)) ([9c699bc](https://github.com/treemmett/cspell-dicts/commit/9c699bc6d0a7b0ddbf36dbef5eb7cfd24e510124))
+* add `fastlane` to `companies.txt` ([#1432](https://github.com/treemmett/cspell-dicts/issues/1432)) ([8f76df8](https://github.com/treemmett/cspell-dicts/commit/8f76df832b4257fa01c714ec88f58c1ac41f0417))
+* add `Swyftx` to Companies ([#1333](https://github.com/treemmett/cspell-dicts/issues/1333)) ([32c82c8](https://github.com/treemmett/cspell-dicts/commit/32c82c8fe71f6dd083cf0f3d95334032d6f4d88a))
+* Add Grafana to companies.txt ([#1463](https://github.com/treemmett/cspell-dicts/issues/1463)) ([844189f](https://github.com/treemmett/cspell-dicts/commit/844189f675b8c923005723d2aad053a6af90afd1))
+* Add new companies ([#1418](https://github.com/treemmett/cspell-dicts/issues/1418)) ([fe4a292](https://github.com/treemmett/cspell-dicts/commit/fe4a2927f21ed6534fa8f60fb0a39bc3241b674d))
+* Add several tech company names and their tools ([5648103](https://github.com/treemmett/cspell-dicts/commit/5648103e6f78b68a00f4ef80624335cf0a9e98c5))
+* add Street Side Software to companies ([8ee2b42](https://github.com/treemmett/cspell-dicts/commit/8ee2b42d9fae114cd2039431ed9d1732e5313cbc))
+* Move more software terms to tools + add a few new ones ([#1419](https://github.com/treemmett/cspell-dicts/issues/1419)) ([0cb05bc](https://github.com/treemmett/cspell-dicts/commit/0cb05bcc8557bd8e853c9d0f857b79dfbd7b9c27))
+
+
+### Miscellaneous
+
+* release main ([#1299](https://github.com/treemmett/cspell-dicts/issues/1299)) ([f4a35d6](https://github.com/treemmett/cspell-dicts/commit/f4a35d63e2fda4031434213f4bbe78c34917746d))
+* release main ([#1300](https://github.com/treemmett/cspell-dicts/issues/1300)) ([aabd3ee](https://github.com/treemmett/cspell-dicts/commit/aabd3ee644fc60f51b8fb3c2e7f4ad857d358ed3))
+* release main ([#1320](https://github.com/treemmett/cspell-dicts/issues/1320)) ([ef96333](https://github.com/treemmett/cspell-dicts/commit/ef963333bea559bd4aa9ab5eb26c3fc4033acfb1))
+* release main ([#1334](https://github.com/treemmett/cspell-dicts/issues/1334)) ([e170947](https://github.com/treemmett/cspell-dicts/commit/e170947df0f94ce166ff4c9daac92392e4e6c71b))
+* release main ([#1421](https://github.com/treemmett/cspell-dicts/issues/1421)) ([f8732f8](https://github.com/treemmett/cspell-dicts/commit/f8732f8b627c3f4c9f6060d7ab14f7c968b6d246))
+* release main ([#1433](https://github.com/treemmett/cspell-dicts/issues/1433)) ([d7f3cb6](https://github.com/treemmett/cspell-dicts/commit/d7f3cb6550a3080ff9a5bae12896cf53bacfb980))
+* release main ([#1464](https://github.com/treemmett/cspell-dicts/issues/1464)) ([4830430](https://github.com/treemmett/cspell-dicts/commit/4830430e0be2178885bab21f30d50dd203d092ee))
+* release main ([#1513](https://github.com/treemmett/cspell-dicts/issues/1513)) ([1ca7c3e](https://github.com/treemmett/cspell-dicts/commit/1ca7c3ef9e48ab76719fd8e7b578eaee452ddf68))
+
 ## [3.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@2.0.14...@cspell/dict-companies@3.0.0) (2022-10-10)
 
 

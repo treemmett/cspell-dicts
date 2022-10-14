@@ -22,6 +22,30 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.0](https://github.com/treemmett/cspell-dicts/compare/@cspell/dict-css-v3.0.0...@cspell/dict-css@4.0.0) (2022-10-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* Drop Support for CSpell 5. (#1512)
+
+### Features
+
+* add CSS values from mdn-browser-compat ([#1409](https://github.com/treemmett/cspell-dicts/issues/1409)) ([204a54b](https://github.com/treemmett/cspell-dicts/commit/204a54b546cb60ad578d4af1c788ca3cb9c7f8fc))
+* Drop Support for CSpell 5. ([#1512](https://github.com/treemmett/cspell-dicts/issues/1512)) ([687932e](https://github.com/treemmett/cspell-dicts/commit/687932e187e4bce87d7904e3a2e53dd6de6ac372))
+
+
+### Updates and Bug Fixes
+
+* Add a few CSS related words ([#1383](https://github.com/treemmett/cspell-dicts/issues/1383)) ([0db0f2b](https://github.com/treemmett/cspell-dicts/commit/0db0f2bf1fa1f94da0b94cad20a56c13bcc67a89))
+
+
+### Miscellaneous
+
+* release main ([#1382](https://github.com/treemmett/cspell-dicts/issues/1382)) ([99a16ee](https://github.com/treemmett/cspell-dicts/commit/99a16ee4b40dc555351ce326bda94345e7d47421))
+* release main ([#1407](https://github.com/treemmett/cspell-dicts/issues/1407)) ([5c72bfa](https://github.com/treemmett/cspell-dicts/commit/5c72bfaa122e26820a4eebd65428a382b1276767))
+* release main ([#1513](https://github.com/treemmett/cspell-dicts/issues/1513)) ([1ca7c3e](https://github.com/treemmett/cspell-dicts/commit/1ca7c3ef9e48ab76719fd8e7b578eaee452ddf68))
+
 ## [3.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-css@2.1.0...@cspell/dict-css@3.0.0) (2022-10-10)
 
 
